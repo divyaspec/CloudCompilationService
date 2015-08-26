@@ -1,0 +1,15 @@
+DatabaseAccount
+SSLConfiguration
+RetryPolicy
+MediaReadMode
+ConnectionMode
+DataType
+TriggerType
+ProxyConfiguration
+IndexingDirective
+ConnectionPolicy
+IndexingMode
+PermissionMode
+TriggerOperation
+IndexKind
+ConsistencyLevel

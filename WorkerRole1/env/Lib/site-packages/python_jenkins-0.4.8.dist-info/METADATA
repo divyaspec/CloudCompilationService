@@ -1,0 +1,103 @@
+Metadata-Version: 2.0
+Name: python-jenkins
+Version: 0.4.8
+Summary: Python bindings for the remote Jenkins API
+Home-page: http://git.openstack.org/cgit/stackforge/python-jenkins
+Author: OpenStack Infrastructure Team
+Author-email: openstack@lists.launchpad.net
+License: BSD
+Platform: UNKNOWN
+Classifier: Topic :: Utilities
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: System Administrators
+Classifier: Environment :: Console
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Requires-Dist: six
+Requires-Dist: pbr (>=0.8.2,<2.0)
+
+README
+======
+
+Python Jenkins is a python wrapper for the `Jenkins <http://jenkins-ci.org/>`_
+REST API which aims to provide a more conventionally pythonic way of controlling
+a Jenkins server.  It provides a higher-level API containing a number of
+convenience functions.
+
+We like to use python-jenkins to automate our Jenkins servers. Here are some of
+the things you can use it for:
+
+* Create new jobs
+* Copy existing jobs
+* Delete jobs
+* Update jobs
+* Get a job's build information
+* Get Jenkins master version information
+* Get Jenkins plugin information
+* Start a build on a job
+* Create nodes
+* Enable/Disable nodes
+* Get information on nodes
+* Create/delete/reconfig views
+* and many more..
+
+To install::
+
+    $ sudo python setup.py install
+
+Online documentation:
+
+* http://python-jenkins.readthedocs.org/en/latest/
+
+Developers
+----------
+Bug report:
+
+* https://bugs.launchpad.net/python-jenkins
+
+Repository:
+
+* https://git.openstack.org/cgit/stackforge/python-jenkins
+
+Cloning:
+
+* git clone https://git.openstack.org/stackforge/python-jenkins
+
+Patches are submitted via Gerrit at:
+
+* https://review.openstack.org/
+
+Please do not submit GitHub pull requests, they will be automatically closed.
+
+More details on how you can contribute is available on our wiki at:
+
+* http://docs.openstack.org/infra/manual/developers.html
+
+Writing a patch
+---------------
+
+We ask that all code submissions be flake8_ clean.  The
+easiest way to do that is to run tox_ before submitting code for
+review in Gerrit.  It will run ``flake8`` in the same
+manner as the automated test suite that will run on proposed
+patchsets.
+
+Installing without setup.py
+---------------------------
+
+Then install the required python packages using pip_::
+
+    $ sudo pip install python-jenkins
+
+.. _flake8: https://pypi.python.org/pypi/flake8
+.. _tox: https://testrun.org/tox
+.. _pip: https://pypi.python.org/pypi/pip
+
+
+

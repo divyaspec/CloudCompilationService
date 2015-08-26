@@ -1,0 +1,13 @@
+ErrorClass
+TextTestResult
+MetaErrorClass
+Plugin
+doctest
+isclass
+add_skip_patch
+print_label_patch
+add_error_patch
+ErrorClassPlugin
+print_errors_patch
+wassuccessful_patch
+make_instancemethod

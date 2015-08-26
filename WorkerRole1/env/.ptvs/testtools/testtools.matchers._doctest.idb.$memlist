@@ -1,0 +1,8 @@
+_NonManglingOutputChecker
+Mismatch
+__all__
+DocTestMatches
+str_is_unicode
+doctest
+DocTestMismatch
+re

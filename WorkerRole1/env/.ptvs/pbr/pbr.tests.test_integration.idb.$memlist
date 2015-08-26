@@ -1,0 +1,17 @@
+fixtures
+load_tests
+os
+PBRVERSION
+testscenarios
+PIPFLAGS
+PROJECTS
+TestIntegration
+base
+PIP_CMD
+PIPVERSION
+WHEELHOUSE
+REPODIR
+all_projects
+virtualenv
+shlex
+testtools

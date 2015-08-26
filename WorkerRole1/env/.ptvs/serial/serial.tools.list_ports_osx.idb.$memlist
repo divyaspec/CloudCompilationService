@@ -1,0 +1,17 @@
+port
+kIOMasterPortDefault
+hwid
+ctypes
+get_string_property
+util
+comports
+GetIOServicesByType
+cf
+IORegistryEntryGetName
+kCFAllocatorDefault
+desc
+get_int_property
+re
+iokit
+kCFStringEncodingMacRoman
+GetParentDeviceByType

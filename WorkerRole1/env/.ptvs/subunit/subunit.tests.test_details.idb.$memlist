@@ -1,0 +1,9 @@
+content_type
+_b
+TestMultipartDetails
+content
+subunit
+StringIO
+TestSimpleDetails
+details
+unittest

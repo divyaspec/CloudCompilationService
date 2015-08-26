@@ -1,0 +1,12 @@
+_varint_cache
+varint_to_int
+decode_signed_varint
+xrange
+varint
+_varint_cache_size
+array
+array_tobytes
+_varint
+read_varint
+i
+signed_varint

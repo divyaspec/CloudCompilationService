@@ -1,0 +1,12 @@
+target_elf
+upload
+join
+target_firm
+Builder
+BeforeUpload
+COMMAND_LINE_TARGETS
+target_size
+AlwaysBuild
+env
+DefaultEnvironment
+Default

@@ -1,0 +1,10 @@
+_QUEST
+parse_glob
+ANY
+_PLUS
+_LIT
+NFA
+glob_automaton
+_RANGE
+_STAR
+EPSILON

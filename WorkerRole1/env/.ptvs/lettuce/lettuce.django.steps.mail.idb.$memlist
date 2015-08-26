@@ -1,0 +1,14 @@
+mail
+mail_sent_count
+mail_sent_content_multiline
+EMAIL_PARTS
+GOOD_MAIL
+mail_sent_content
+CHECK_PREFIX
+email_broken
+mail_not_sent
+STEP_PREFIX
+SMTPException
+mail_clear
+broken_send
+step

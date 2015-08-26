@@ -1,0 +1,15 @@
+FlushSerialBuffer
+Exit
+join
+AutodetectUploadPort
+get_serialports
+TouchSerialPort
+sleep
+Serial
+system
+get_logicaldisks
+copyfile
+generate
+UploadToDisk
+exists
+WaitForNewSerialPort

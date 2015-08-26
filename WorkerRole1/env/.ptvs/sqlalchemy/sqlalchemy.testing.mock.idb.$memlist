@@ -1,0 +1,6 @@
+absolute_import
+call
+py33
+Mock
+MagicMock
+patch

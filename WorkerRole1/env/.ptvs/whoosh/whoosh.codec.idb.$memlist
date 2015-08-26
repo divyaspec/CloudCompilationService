@@ -1,0 +1,5 @@
+default_codec
+plaintext
+base
+whoosh3
+memory

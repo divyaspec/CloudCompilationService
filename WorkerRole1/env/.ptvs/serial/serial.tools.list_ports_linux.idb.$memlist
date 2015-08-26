@@ -1,0 +1,17 @@
+sys
+usb_lsusb_string
+desc
+hwid
+re
+os
+re_group
+hwinfo
+popen
+subprocess
+port
+usb_sysfs_hw_string
+glob
+describe
+plat
+comports
+read_line

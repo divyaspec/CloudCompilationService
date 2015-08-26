@@ -1,0 +1,15 @@
+target_elf
+Exit
+join
+target_firm
+env
+platform
+DefaultEnvironment
+COMMAND_LINE_TARGETS
+target_size
+AlwaysBuild
+upload
+disable_msd
+SConscript
+isfile
+Default

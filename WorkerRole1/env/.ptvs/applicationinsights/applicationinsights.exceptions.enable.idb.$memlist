@@ -1,0 +1,8 @@
+original_excepthook
+intercept_excepthook
+enable
+channel
+telemetry_channel
+enabled_instrumentation_keys
+TelemetryClient
+sys

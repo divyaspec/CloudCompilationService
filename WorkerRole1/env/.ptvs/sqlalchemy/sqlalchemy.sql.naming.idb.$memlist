@@ -1,0 +1,16 @@
+_truncated_label
+ForeignKeyConstraint
+_constraint_name
+Index
+re
+exc
+PrimaryKeyConstraint
+_prefix_dict
+events
+event
+_get_convention
+Constraint
+UniqueConstraint
+CheckConstraint
+Table
+ConventionDict

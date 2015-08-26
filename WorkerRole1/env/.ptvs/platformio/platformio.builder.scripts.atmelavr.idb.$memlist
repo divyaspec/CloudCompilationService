@@ -1,0 +1,16 @@
+AlwaysBuild
+SConscript
+target_elf
+target_firm
+BeforeUpload
+get_serialports
+COMMAND_LINE_TARGETS
+target_eep
+join
+env
+upload
+sleep
+Default
+DefaultEnvironment
+uploadeep
+target_size

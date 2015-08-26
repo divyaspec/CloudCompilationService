@@ -1,0 +1,7 @@
+get_latest_version
+requests
+click
+cli
+GetLatestVersionError
+util
+__version__

@@ -1,0 +1,10 @@
+TestProgram
+get_user_options
+Config
+nosetests
+DefaultPluginManager
+Command
+option_blacklist
+_bool
+user_config_files
+flag

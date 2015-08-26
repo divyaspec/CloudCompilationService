@@ -1,0 +1,11 @@
+firebird
+sa
+oracle
+sqlite
+get_dialect_visitor
+get_engine_visitor
+DIALECTS
+mysql
+run_single_visitor
+postgres
+ansisql

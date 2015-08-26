@@ -1,0 +1,14 @@
+target_elf
+AlwaysBuild
+basename
+get_serialports
+upload
+env
+DefaultEnvironment
+COMMAND_LINE_TARGETS
+target_size
+join
+target_firm
+SConscript
+BeforeUpload
+Default

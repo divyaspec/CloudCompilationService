@@ -1,0 +1,15 @@
+MIMEAccept
+part_re
+MIMENilAccept
+header_to_key
+warn_deprecation
+AcceptLanguage
+NoAccept
+accept_property
+NilAccept
+_check_offer
+AcceptCharset
+Accept
+header_docstring
+re
+_warn_first_match

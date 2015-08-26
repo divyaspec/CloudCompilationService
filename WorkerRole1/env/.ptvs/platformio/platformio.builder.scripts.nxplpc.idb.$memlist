@@ -1,0 +1,13 @@
+target_elf
+upload
+join
+target_firm
+UploadToDisk
+env
+DefaultEnvironment
+COMMAND_LINE_TARGETS
+target_size
+AlwaysBuild
+copyfile
+SConscript
+Default

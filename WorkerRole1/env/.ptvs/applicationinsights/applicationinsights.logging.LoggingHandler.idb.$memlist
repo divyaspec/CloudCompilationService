@@ -1,0 +1,5 @@
+enabled_instrumentation_keys
+LoggingHandler
+logging
+applicationinsights
+enable

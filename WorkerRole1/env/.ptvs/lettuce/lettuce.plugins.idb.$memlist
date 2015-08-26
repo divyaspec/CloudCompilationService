@@ -1,0 +1,10 @@
+shell_output
+colored_shell_output
+dots
+smtp_mail_queue
+scenario_names
+subunit_output
+reporter
+xunit_output
+autopdb
+non_verbose

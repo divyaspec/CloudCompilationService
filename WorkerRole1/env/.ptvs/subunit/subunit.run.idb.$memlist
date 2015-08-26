@@ -1,0 +1,15 @@
+TestProgram
+SubunitTestProgram
+USAGE_AS_MAIN
+os
+CATCHBREAK
+sys
+ExtendedToStreamDecorator
+main
+AutoTimingTestResultDecorator
+SubunitTestRunner
+list_test
+FAILFAST
+BUFFEROUTPUT
+io
+StreamResultToBytes

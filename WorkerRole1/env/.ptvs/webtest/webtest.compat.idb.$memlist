@@ -1,0 +1,17 @@
+sys
+CookieError
+PY3
+print_stderr
+urlparse
+SimpleCookie
+escape_cookie_value
+six
+OrderedDict
+splittype
+urlencode
+splithost
+COOKIE_ESCAPE_CHAR_MAP
+to_bytes
+text_type
+name2codepoint
+http_cookies

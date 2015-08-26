@@ -1,0 +1,14 @@
+full_process
+make_type_consistent
+PY3
+unicode_literals
+validate_string
+intr
+asciidammit
+asciionly
+i
+translation_table
+StringProcessor
+bad_chars
+sys
+unicode

@@ -1,0 +1,15 @@
+test_template
+test_api
+test_util
+test_script
+test_genmodel
+test_keyedinstance
+test_schema
+test_pathed
+test_version
+test_repository
+test_shell
+test_schemadiff
+test_runchangeset
+test_cfgparse
+test_database
