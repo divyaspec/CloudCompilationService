@@ -52,7 +52,6 @@ path_importer_cache
 platform
 prefix
 py3kwarning
-real_prefix
 setcheckinterval
 setprofile
 setrecursionlimit
