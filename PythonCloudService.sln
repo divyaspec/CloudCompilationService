@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "PythonCloudService", "PythonCloudService\PythonCloudService.ccproj", "{211AF570-B86A-42C2-8821-D754B158975A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "WorkerRole1", "WorkerRole1\WorkerRole1.pyproj", "{0DE88EA1-44BA-41A6-AD90-A9C731B98AAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{211AF570-B86A-42C2-8821-D754B158975A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{211AF570-B86A-42C2-8821-D754B158975A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{211AF570-B86A-42C2-8821-D754B158975A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{211AF570-B86A-42C2-8821-D754B158975A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DE88EA1-44BA-41A6-AD90-A9C731B98AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DE88EA1-44BA-41A6-AD90-A9C731B98AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DE88EA1-44BA-41A6-AD90-A9C731B98AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DE88EA1-44BA-41A6-AD90-A9C731B98AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

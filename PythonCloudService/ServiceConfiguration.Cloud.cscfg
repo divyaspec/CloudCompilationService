@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServiceConfiguration serviceName="PythonCloudService" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceConfiguration" osFamily="4" osVersion="*" schemaVersion="2015-04.2.6">
+  <Role name="WorkerRole1">
+    <Instances count="1" />
+    <ConfigurationSettings>
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="DefaultEndpointsProtocol=https;AccountName=linuxvmstorage;AccountKey=gW6GwPYmuBL7Gs59eEa6br/G6N09+AxChQ4EBKNIF64JyEf9KDUxPdfJxov4EUf29tndVBHcTqgLAHfSe5A/5A==" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.Enabled" value="true" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountUsername" value="divya.spec" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountEncryptedPassword" value="MIIBnQYJKoZIhvcNAQcDoIIBjjCCAYoCAQAxggFOMIIBSgIBADAyMB4xHDAaBgNVBAMME1dpbmRvd3MgQXp1cmUgVG9vbHMCEHoEkOlqJoCSRTkAMcq/LqEwDQYJKoZIhvcNAQEBBQAEggEAfMgOheKFWqbIlrQl4RrDKNGr0U1Wk2aYISbAgWZiUUjI91WqdVSCHpBPnhAxXVKfddN+VO13dBfnzkbkS0F1RyBjvRv7RU0NvIPyFvsu1EERP0nQAoJFRm2KlAo5Mya+W/JM0vt57Ql37gyq4dkVpksWzuXa2eH9ghlDQYhsN5hv2Y7S//EdDSVLRP3wdARnpLWTWTTAs1Lyc+9FoDqlaIJLRkYyblmPRnqd/QDyItteuegwSwQcpL8mirpro5a7Fz/4RHESF1KcEDKMNGUfyjsm7CE0Irdt91rltjUEDs+POX1/k7T9m+9Zax6bycJx5KHVGlseO8f5JW15YdrgKTAzBgkqhkiG9w0BBwEwFAYIKoZIhvcNAwcECGRdgHykcZ+DgBDcbp/6xgjTpT2msYiAAXvz" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountExpiration" value="2016-08-25T23:59:59.0000000+00:00" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteForwarder.Enabled" value="true" />
+    </ConfigurationSettings>
+    <Certificates>
+      <Certificate name="Microsoft.WindowsAzure.Plugins.RemoteAccess.PasswordEncryption" thumbprint="E4315070DDE9F63BE3401419ECACFAF85D86C5DE" thumbprintAlgorithm="sha1" />
+    </Certificates>
+  </Role>
+</ServiceConfiguration>
